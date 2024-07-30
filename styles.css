@@ -1,0 +1,87 @@
+body{
+background-color: white;
+font-family: helvetica;
+color: #212427;
+}
+
+.container{
+ background-color: #f3f3f3;
+ text-align: center;
+ margin: 30px auto 30px auto;
+ padding: 0 5px;
+}
+
+h1{
+  font-size: 40px;
+  padding-top: 50px;
+}
+.tributepic{
+  background-color: white;
+  padding: 25px;
+  margin: 0 10px 0 10px;
+}
+
+img{
+   display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timeline ul{
+width: 32%;
+margin-right: auto;
+margin-left: auto;
+text-align: left;
+}
+
+.bold{
+  font-weight: bold;
+  color: #212427;
+}
+
+.timeline li{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: #313131;
+   line-height: 1.5;
+
+}
+
+h3{
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.figcap{
+  margin-top: 20px;
+  margin-bottom: -10px;
+}
+
+.footer-quote{
+  display: block;
+  font-style: italic;
+  width: 32%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: #313131;
+  quotes: initial;
+    letter-spacing: 0.5px;
+  text-align: justify;
+  line-height: 1.5;
+  font-size: 15px;
+
+}
+
+blockquote{
+  display: block;
+margin-left: 0;
+
+
+}
+
+.wiki{
+  padding-bottom: 40px;
+}
